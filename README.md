@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RonG305
-- 👀 I’m interested in software development...
-- 🌱 I’m currently learning  javascript, node js...
+- 👋 Hi, I’m Ronald Mutia
+- 👀 Software engineering student pursuing Bachelors
+- 🌱 Completed a number of full stack web applications in Django rest framework, ReactJs and Tailwind CSS
 - 💞️ I’m looking to collaborate on .front end, backend and full stack projects..
 - 📫 You can reach me through my e-mail "mutiaronald138@gmail.com"
 
