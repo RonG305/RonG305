@@ -8,7 +8,6 @@ Full-stack developer passionate about building scalable web applications with mo
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [mutiaronald138@gmail.com](mailto:mutiaronald138@gmail.com)
-* 🚀  I'm currently working on [SpeedyDrop e-commerce](http://eshop.speedydrop.co.ke/)
 * 🧠  I'm learning Machine Learning / AI
 * 🤝  I'm open to collaborating on Interesting projects
 
